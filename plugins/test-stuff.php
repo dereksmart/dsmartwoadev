@@ -6,7 +6,7 @@
 function sample_admin_notice__success() {
 	?>
 	<div class="notice notice-success is-dismissible">
-		<p><?php _e( 'Hello!', 'sample-text-domain' ); ?></p>
+		<p><?php _e( 'Hello!!', 'sample-text-domain' ); ?></p>
 	</div>
 	<?php
 }
